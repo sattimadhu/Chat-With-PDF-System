@@ -1,0 +1,11 @@
+streamlit
+PyMuPDF
+pytesseract
+Pillow
+python-dotenv
+langchain
+faiss-cpu
+langchain-google-genai
+requests
+langchain_community
+PyPDF2
